@@ -1,0 +1,252 @@
+.navbarbg {
+  height: 55px;
+  background-color: white;
+}
+
+input.searche {
+  height: 36px;
+  max-width: 500px;
+  background-color: #eef3f8;
+  border: 0;
+}
+
+input.searche::placeholder {
+  font-size: 14px;
+  color: gray;
+  background-image: url(https://cdn-icons-png.flaticon.com/512/3917/3917754.png);
+  background-repeat: no-repeat;
+  background-size: 10%;
+}
+
+.body {
+  background-color: #f3f2ef;
+}
+
+.menutext {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 5px;
+  font-weight: lighter;
+}
+
+.menutext:hover {
+  color: black;
+}
+
+button.mediatext {
+  color: #5f5f5f;
+}
+
+button.mediatext:hover {
+  color: #5f5f5f;
+}
+
+.mediatext {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f5f5f;
+}
+
+i {
+  color: gray;
+  margin-top: 8px;
+}
+i:hover {
+  color: black;
+}
+
+input.content {
+  border-radius: 40px;
+  height: 45px;
+}
+input.content::placeholder {
+  font-weight: bolder;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://static.thenounproject.com/png/3874122-200.png);
+  background-repeat: no-repeat;
+  background-size: 6%;
+  background-position: left;
+}
+
+div.card {
+  border-radius: 10px;
+}
+
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.view {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #5f5f5f;
+}
+
+.categories {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0a66c2;
+}
+
+li {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
+
+.link {
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #5f5f5f;
+}
+
+button.ref {
+  color: white;
+}
+
+button.ref:hover {
+  color: #5f5f5f;
+}
+
+.postphoto {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.posttext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.logo-margin {
+  margin-left: 100px;
+}
+
+.marg-top-100 {
+  margin-top: 100px;
+}
+
+.searchbar-margin {
+  margin-right: 200px;
+}
+
+.round-white {
+  border:solid 2px white;
+  border-radius: 100%;
+}
+
+#en-yeni {
+  position: sticky;
+  top: 4rem;
+  overflow: visible;
+}
+
+.content-profile {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 13px;
+  color: #474747;
+}
+
+.content-paragraph {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+#sancar-paragraph {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: #212529;
+}
+
+.btn-font-12rem {
+  font-size: 1.2rem;
+}
+
+.content-header {
+  color: black;
+}
+
+.color-brown {
+  color: #212529;
+}
+
+.fs-13 {
+  font-size: 13px;
+}
+
+.fs-23 {
+  font-size: 23px;
+}
+
+.color-5f {
+  color: #5f5f5f;
+}
+
+.fs-12 {
+  font-size: 12px;
+}
+
+#sol-panel-stick {
+  width: 16rem;
+  position: sticky;
+  overflow: visible;
+  top: 4rem;
+}
+
+#sag-panel-stick {
+  position: sticky;
+  overflow: visible;
+  top: 4rem;
+}
+
+.color-blue {
+  color: #0a66c2;
+}
+
+#kablosuz-beyin {
+  font-size: 15px;
+  margin-top: -35px;
+  font-weight: bold;
+  margin-left: 37px;
+}
+
+#sayfa-bildirim {
+  font-size: 13px;
+  color: gray;
+  font-weight: bold;
+  margin-left: 38px;
+}
+
+.fs-24rem {
+  font-size: 2.4rem;
+}
+
+#mesajlasma {
+  font-size: 14px;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif;
+  width: 300px;
+}
+
+#nav-style {
+  height: 50px;
+  position: -webkit-sticky;
+  border-radius: 5px;
+  margin-left: auto;
+  right: 15px;
+}
+
+
